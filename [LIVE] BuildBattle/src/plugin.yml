@@ -1,0 +1,4 @@
+main: me.buildbattle.faidrun.BuildBattle
+name: BuildBattle
+authors: [Faiden, Xodrun]
+version: 1.0.0
